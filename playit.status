@@ -1,652 +1,952 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1727574802823 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1727577408762 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574806129 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577411845 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574809233 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577414959 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574812362 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577418054 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574815577 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577422946 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574818674 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577426032 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574821783 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577429113 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574824885 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577432238 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574827968 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577436148 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574831075 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577440756 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574834170 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577443871 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574837847 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577446960 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574840954 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577450086 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574844078 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577453189 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574847177 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577456296 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574850260 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577459703 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574853343 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577463208 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574856425 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577466435 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574859612 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577469537 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574862694 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577472617 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574865866 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577475709 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574868972 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577478789 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574872082 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577481868 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574875180 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577484951 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574878405 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577488044 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574881500 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577491199 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574884598 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577494380 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574887703 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577499356 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574890791 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577502432 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574894143 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577505540 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574897220 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577508658 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574900466 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577511797 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574903561 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577514885 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574906662 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577517993 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574909782 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577521129 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574912928 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577524266 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574916011 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577527369 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574919118 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577530467 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574922200 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577533570 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574925385 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577536681 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574928485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577539888 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574931586 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577543001 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574934679 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577546147 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574937769 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577549246 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574940880 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577552374 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574943958 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577555526 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574947121 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577558611 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574950199 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577561699 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574953281 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577564802 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574956369 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577567924 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574959680 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577571118 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574963129 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577574238 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574966207 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577577332 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574969289 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577580414 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574972367 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577583575 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574975452 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577586664 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574978586 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577589748 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574981667 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577592859 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574984755 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577595955 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574987839 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577600284 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574990927 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577603374 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574994019 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577608602 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727574997105 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577611716 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575000241 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727577626855 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575003325 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577629948 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575007308 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577633047 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575010389 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577636124 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575013474 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577639239 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575016836 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577642339 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575020117 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577645463 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575023213 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577648593 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575026457 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577651752 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575029849 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577654865 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575032926 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577658491 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575036014 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577661612 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575039913 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577664711 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575043058 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577668698 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575046186 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577671832 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575049322 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577674930 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575052403 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577678034 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575055527 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577681141 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575058608 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577684254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575061693 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577687398 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575064777 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577690475 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575067859 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577693586 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575070941 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577696699 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575074079 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577699815 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575077171 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727577714951 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575080281 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577718070 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575083366 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577721165 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575086446 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577724275 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575089538 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577727363 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575092618 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577730496 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575095728 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577733593 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575098810 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727577748747 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575101937 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577751874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575105128 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577755059 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575108224 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577758185 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575111351 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577761287 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575114475 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727577776560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575117562 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577779654 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575120665 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577782754 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575123742 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577785845 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575126865 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577788951 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575129952 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577792065 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575133031 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727577807224 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575136157 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577810318 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575139230 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577813419 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1727575142316 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727577816531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577819619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577822726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577826087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577829229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577832372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577835465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577838655 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577841860 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577844964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577848057 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577851190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577854267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577857364 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727577872511 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577875648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577878742 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577881837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577885346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577888446 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577891545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577894663 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577897802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577900926 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577904008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577907103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577910200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727577925356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577928462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577932077 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577935219 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577938325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577941406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577944501 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577947616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1727577962753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577965890 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577968993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577972112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577975269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577978367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577982020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577985141 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577988279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577992723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727577997880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+list-sandy.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+under-adapter.gl.at.ply.gg:3809 => 127.0.0.1:3809 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1727578000983 tunnel running, 2 tunnels registered
 
 
 TUNNELS
