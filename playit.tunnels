@@ -6,7 +6,7 @@
   },
   "tunnels": [
     {
-      "active": false,
+      "active": true,
       "alloc": {
         "data": {
           "assigned_domain": "list-sandy.gl.joinmc.link",
@@ -52,7 +52,7 @@
       "tunnel_type": "minecraft-java"
     },
     {
-      "active": false,
+      "active": true,
       "alloc": {
         "data": {
           "assigned_domain": "under-adapter.gl.at.ply.gg",
